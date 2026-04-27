@@ -6,7 +6,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Mahasiswa+Teknik+Sistem+Informasi+🎓;Full-Stack+Developer+💻;C+%26+React+Master+⚡;Always+Building+🚀" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Mahasiswa+Teknik+Sistem+Informasi+🎓;Full-Stack+Developer+💻;C+%26+React+Master+⚡;Always+Building+🚀" />
   </a>
 </div>
 
@@ -23,25 +23,17 @@
 
 ## 👨‍🎓 About Me
 
-**Vasco** — Mahasiswa Teknik jurusan **Sistem Teknologi dan Informasi**.  
-Full-stack developer yang menguasai C, React, database, dan mobile development. Selalu grinding code dari kampus sampai malam. [web:1]
+**Vasco** — Mahasiswa semester 4 Teknik Informatika jurusan **Sistem Teknologi dan Informasi**.  
+Full-stack developer yang sedang mengejar karir sebagai **Software Engineer** profesional. Saat ini fokus menguasai C untuk low-level programming, React JS untuk frontend modern, PostgreSQL & MySQL untuk database optimization, Express JS untuk backend API, Tailwind CSS untuk UI/UX rapid development, Flutter & Kotlin untuk cross-platform mobile apps, serta Python untuk automation dan scripting.  
 
-| 🔭 Currently | 🌱 Learning More | 🎯 Goals |
-|:------------:|:----------------:|:---------|
-| Full-stack projects | Advanced algorithms | Software Engineer Pro |
-| React & mobile apps | System architecture | Build production apps |
-| Database optimization | DevOps & deployment | Contribute open source | 
-
----
-
+Passionate coder yang suka tantangan teknis, dari debugging complex algorithms sampai deploy production-ready applications. Aktif berkontribusi di open source, belajar DevOps, dan terus upgrade skills setiap hari. Selalu siap kolaborasi untuk build projects keren bareng developer lain! 
 ## 🛠️ Tech Stack (Expert Level)
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,react,postgres,mysql,express,tailwind,flutter,kotlin,python&perline=5&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=c,react,postgres,mysql,express,tailwind,flutter,kotlin,python,linux,networking&perline=6&theme=dark" />
 </div>
 
 **Core Skills:**  
 `C` • `React JS` • `PostgreSQL` • `MySQL` • `Express JS`  
-`Tailwind CSS` • `Flutter` • `Kotlin` • `Python` 
-
----
+`Tailwind CSS` • `Flutter` • `Kotlin` • `Python`  
+`Linux` • `Jaringan/Networking`
