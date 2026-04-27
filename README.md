@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # 🧠 Hi there, I'm Vasco! 👋
+=======
+# 🧠 Hello World!!
+>>>>>>> 3b959d5a7f96668e4377f76264dc201cb619cf6e
 
 ![Banner](./img/github-header-banner.png)
 
