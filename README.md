@@ -1,6 +1,6 @@
 <div align="center">
 
-# Vasco 🔒
+# Hello World! Im' Vasco 🔒
 
 <img width="100%" src="./img/github-header-banner.png" alt="Banner" />
 
@@ -90,17 +90,3 @@
 </div> [web:14][web:19]
 
 ---
-
-## 💭 Random Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Random Dev Quote" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=USERNAME_GITHUB_KAMU&color=000000&style=for-the-badge&label=PROFILE+VIEWS" />
-  <br>
-  <b>Let's build something epic. Connect now. ⚡</b>
-</div>
