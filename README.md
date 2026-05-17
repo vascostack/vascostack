@@ -1,39 +1,64 @@
 <div align="center">
 
-# Helllo World!! Im' Vasco 
+# Hello World! I'm Vasco 👋
 
-<img width="100%" src="./img/github-header-banner.png" alt="Banner" />
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Mahasiswa+Teknik+Sistem+Informasi+🎓;Full-Stack+Developer+💻;C+%26+React+Master+⚡;Always+Building+🚀" alt="Typing SVG" />
+</a>
 
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Mahasiswa+Teknik+Sistem+Informasi+🎓;Full-Stack+Developer+💻;C+%26+React+Master+⚡;Always+Building+🚀" />
-  </a>
-</div>
+*Passionate coder bridging the gap between low-level algorithms and high-level applications.*
 
-</div>
+[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=D14836)](mailto:vasco@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/USERNAME)
+[![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://instagram.com/USERNAME)
+[![Telegram](https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=26A5E4)](https://t.me/USERNAME)
 
-<div align="center">
-  <a href="mailto:vasco@email.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=D14836" /></a>
-  <a href="https://linkedin.com/in/USERNAME"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a>
-  <a href="https://instagram.com/USERNAME"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=E4405F" /></a>
-  <a href="https://t.me/USERNAME"><img src="https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=26A5E4" /></a>
 </div>
 
 ---
 
-## 👨‍🎓 About Me
+## 👨‍💻 About Me
 
-**Vasco** — Mahasiswa semester 4 Teknik Informatika jurusan **Sistem Teknologi dan Informasi**.  
-Full-stack developer yang sedang mengejar karir sebagai **Software Engineer** profesional. Saat ini fokus menguasai C untuk low-level programming, React JS untuk frontend modern, PostgreSQL & MySQL untuk database optimization, Express JS untuk backend API, Tailwind CSS untuk UI/UX rapid development, Flutter & Kotlin untuk cross-platform mobile apps, serta Python untuk automation dan scripting.  
+Saya adalah Mahasiswa semester 4 program studi **Sistem Teknologi dan Informasi**. Sebagai seorang *Full-Stack Developer* yang sedang merintis karir menjadi **Software Engineer** profesional, saya sangat menyukai tantangan teknis—mulai dari *debugging* algoritma kompleks hingga *deploy* aplikasi *production-ready*.
 
-Passionate coder yang suka tantangan teknis, dari debugging complex algorithms sampai deploy production-ready applications. Aktif berkontribusi di open source, belajar DevOps, dan terus upgrade skills setiap hari. Selalu siap kolaborasi untuk build projects keren bareng developer lain! 
-## 🛠️ Tech Stack (Expert Level)
+- 🎓 **Currently focusing on:** Menguasai fundamental *low-level programming* dengan C dan membangun sistem *frontend/backend* modern.
+- 💡 **Interests:** Otomatisasi (*automation*), eksplorasi DevOps, dan optimasi arsitektur *Database*.
+- 🤝 **Collaboration:** Selalu terbuka untuk berkolaborasi dalam proyek *open-source* atau membangun produk keren bersama *developer* lain.
+- 🌱 **Philosophy:** Terus *upgrade* skill setiap hari. *"Good code is a piece of art."*
+
+---
+
+## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,react,postgres,mysql,express,tailwind,flutter,kotlin,python,linux,networking&perline=6&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=c,react,postgres,mysql,express,tailwind,flutter,kotlin,python,linux,networking&perline=6&theme=dark" alt="Vasco's Tech Stack" />
 </div>
 
-**Core Skills:**  
-`C` • `React JS` • `PostgreSQL` • `MySQL` • `Express JS`  
-`Tailwind CSS` • `Flutter` • `Kotlin` • `Python`  
-`Linux` • `Jaringan/Networking`
+<br>
+
+<div align="center">
+
+| Kategori | Teknologi Utama |
+| :--- | :--- |
+| **Frontend** | React JS, Tailwind CSS |
+| **Backend** | Express JS, C, Python |
+| **Mobile** | Flutter, Kotlin |
+| **Database** | PostgreSQL, MySQL |
+| **Tools & Core** | Linux, Networking Fundamentals |
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=white&text_color=777777&icon_color=white" alt="Vasco's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=transparent&hide_border=true&title_color=white&text_color=777777&icon_color=white" alt="Vasco's Streak" width="48%" />
+</div>
+
+<br>
+
+<div align="center">
+  <i>Terima kasih sudah mampir ke profil saya! Mari terkoneksi dan ciptakan sesuatu yang luar biasa. 🚀</i>
+</div>
