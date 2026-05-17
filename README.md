@@ -1,4 +1,6 @@
-# ⚡ Vasco
+<div align="center">
+  # Hello World! I'm Vasco 👋
+</div>
 
 > **Software Engineering Student & Full-Stack Developer**
 > 
