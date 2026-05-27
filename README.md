@@ -13,24 +13,24 @@
 ### 👨‍💻 Brief
 Mahasiswa semester 4 **Sistem Teknologi dan Informasi**. Saya memiliki *passion* mendalam terhadap *software engineering*, mulai dari merancang arsitektur database, membangun API, hingga *slicing* UI/UX modern. 
 
-Sebagai *daily driver*, saya terbiasa bekerja di ekosistem **Linux Mint (XFCE)** dan menikmati setiap tantangan teknis—dari *debugging* kode C yang kompleks hingga menyusun *logic* aplikasi yang siap *production*.
+Sebagai *daily driver*, saya terbiasa bekerja di ekosistem **Linux** dan menikmati setiap tantangan teknis—dari *debugging* kode java yang kompleks hingga menyusun *logic* aplikasi yang siap *production*.
 
 ### 💻 Tech Arsenal
 
 **Core Languages**
-`C` • `Python` • `PHP` • `Kotlin`
+`C` • `Python` • `PHP` • `Kotlin`,`java`
 
 **Frontend & Mobile**
 `React JS` • `Tailwind CSS` • `Flutter`
 
 **Backend & Database**
-`Express JS` • `CodeIgniter 4` • `PostgreSQL` • `MySQL`
+`Express JS` • `CodeIgniter 4` • `PostgreSQL` • `MySQL`,`springboot`
 
 **Tools & Environment**
 `Linux` • `Git` • `Jamovi` • `Brave Browser` • `Networking`
 
 ### 🚀 Current Focus
-- 🎓 Memperdalam *low-level programming* dan optimasi algoritma.
+- 🎓 Memperdalam *Java* dan optimasi algoritma.
 - 🏗️ Membangun project *full-stack* yang *scalable* dan *clean*.
 - 🤝 Terbuka untuk kolaborasi project *open-source* atau *freelance*.
 
