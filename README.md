@@ -13,13 +13,13 @@ Software Engineering Student passionate about backend development, databases, an
 ## Tech Stack
 
 **Languages**
-Java • PHP • JavaScript • Python • C
+Java • JavaScript • C#
 
 **Frontend**
 React • Tailwind CSS • DaisyUI
 
 **Backend**
-Express.js • CodeIgniter 4 • Spring Boot
+Express.js • Spring Boot
 
 **Database**
 MySQL • PostgreSQL
