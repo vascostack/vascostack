@@ -1,40 +1,39 @@
-<div align="center">
+# Hi, I'm Vasco 👋
 
-# Hello World! I'm Vasco 👋
+Software Engineering Student passionate about backend development, databases, and system architecture.
 
-</div>
+## About Me
 
-> **Software Engineering Student & Full-Stack Developer**
-> 
-> *Crafting systems from low-level algorithms to modern web applications.*
+* 🎓 Information Systems & Technology Student
+* ☕ Currently learning Java, Spring Boot, and Software Architecture
+* 🌐 Building full-stack web applications with React, Express.js, and MySQL
+* 🐧 Linux user and open-source enthusiast
+* 🚀 Interested in Backend Development, Networking, and Cybersecurity
 
----
+## Tech Stack
 
-### 👨‍💻 Brief
-Mahasiswa semester 4 **Sistem Teknologi dan Informasi**. Saya memiliki *passion* mendalam terhadap *software engineering*, mulai dari merancang arsitektur database, membangun API, hingga *slicing* UI/UX modern. 
+**Languages**
+Java • PHP • JavaScript • Python • C
 
-Sebagai *daily driver*, saya terbiasa bekerja di ekosistem **Linux** dan menikmati setiap tantangan teknis—dari *debugging* kode java yang kompleks hingga menyusun *logic* aplikasi yang siap *production*.
+**Frontend**
+React • Tailwind CSS • DaisyUI
 
-### 💻 Tech Arsenal
+**Backend**
+Express.js • CodeIgniter 4 • Spring Boot
 
-**Core Languages**
-`C` • `Python` • `PHP` • `Kotlin`,`java`
+**Database**
+MySQL • PostgreSQL
 
-**Frontend & Mobile**
-`React JS` • `Tailwind CSS` • `Flutter`
+**Tools**
+Git • Linux • Docker
 
-**Backend & Database**
-`Express JS` • `CodeIgniter 4` • `PostgreSQL` • `MySQL`,`springboot`
+## Current Projects
 
-**Tools & Environment**
-`Linux` • `Git` • `Jamovi` • `Brave Browser` • `Networking`
+* StayVerse (Hotel Booking Platform)
+* Netflix Clone (TMDB API Integration)
 
-### 🚀 Current Focus
-- 🎓 Memperdalam *Java* dan optimasi algoritma.
-- 🏗️ Membangun project *full-stack* yang *scalable* dan *clean*.
-- 🤝 Terbuka untuk kolaborasi project *open-source* atau *freelance*.
+## Contact
 
----
-
-### 📫 Reach Out
-[Email](mailto:vasco@email.com) ✦ [LinkedIn](https://linkedin.com/in/USERNAME) ✦ [Instagram](https://instagram.com/USERNAME) ✦ [Telegram](https://t.me/USERNAME)
+* LinkedIn
+* Email
+* Instagram
