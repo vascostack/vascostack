@@ -1,13 +1,12 @@
 # Hi, I'm Vasco 👋
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=unity,godot,cs,java,js,react,spring,express,blender,linux,docker,git" />
-</p>
+## 🚀 About Me
 
-<p align="center">
-  <b>Game Developer • Software Engineer • 3D Enthusiast</b>
-</p>
+I’m a 4th semester Information Systems & Technology student passionate about software engineering and game development.
 
+My main focus is building a strong foundation in game systems, backend architecture, and real-time application design. I’m currently learning Unity, Godot, and C# while also exploring backend technologies like Spring Boot and Express.js.
+
+I enjoy understanding how systems work under the hood — whether it’s a game loop, a physics simulation, or a backend API.
 ---
 
 ## 🚀 About Me
