@@ -1,6 +1,6 @@
-# Hi, I'm Vasco 👋
+# Hi, I'm Vasco 
 
-## 🚀 About Me
+## About Me
 
 I’m a 4th semester Information Systems & Technology student passionate about software engineering and game development.
 
@@ -8,7 +8,7 @@ My main focus is building a strong foundation in game systems, backend architect
 
 I’m a Software Engineering student focused on building **real-time systems, gameplay mechanics, and backend architecture**.
 
--  Game Developer (Unity • Godot • C#)
+-  Game Developer (Unity - Godot - C#)
 -  Gameplay & real-time systems enthusiast  
 -  3D Artist (Blender modeling & assets)
 -  Backend & system architecture learner  
@@ -16,7 +16,7 @@ I’m a Software Engineering student focused on building **real-time systems, ga
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=unity,godot,cs,cpp,js,java,spring,express,nodejs,mysql,postgres,blender,git,linux,docker" />
