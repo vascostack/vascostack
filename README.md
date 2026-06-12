@@ -4,11 +4,11 @@ Software Engineering Student passionate about backend development, databases, an
 
 ## About Me
 
-* 🎓 Information Systems & Technology Student
-* ☕ Currently learning Java, Spring Boot, and Software Architecture
-* 🌐 Building full-stack web applications with React, Express.js, and MySQL
-* 🐧 Linux user and open-source enthusiast
-* 🚀 Interested in Backend Development, Networking, and Cybersecurity
+* Information Systems & Technology Student
+* Currently learning Java, Spring Boot, and Software Architecture
+* Building full-stack web applications with React, Express.js, and MySQL
+* Linux user and open-source enthusiast
+* Interested in Backend Development, Networking, and Cybersecurity
 
 ## Tech Stack
 
