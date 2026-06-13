@@ -43,7 +43,7 @@ I’m a Software Engineering student focused on building **real-time systems, ga
 ---
 
 
-## 📫 Contact
+## Contact
 - Email: vascoarchive@gmail.com
 
 ---
