@@ -1,4 +1,4 @@
-# Hi, I'm Vasco 👋
+# Hi, I'm Vasco 
 
 ## About Me
 
@@ -30,6 +30,9 @@ Besides embedded systems, I also explore Artificial Intelligence and continuousl
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge)
+![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge)
+![Microcontroller](https://img.shields.io/badge/Microcontroller-Learning-blue?style=for-the-badge)
 
 ---
 
