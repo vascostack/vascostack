@@ -26,9 +26,10 @@ Besides embedded systems, I also explore Artificial Intelligence and continuousl
 
 ## Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,git,github,linux,vscode" />
-</p>
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
 ---
 
