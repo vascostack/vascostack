@@ -1,51 +1,70 @@
-# Hi, I'm Vasco 
+# Hi, I'm Vasco 👋
 
 ## About Me
 
-I’m a 4th semester Information Systems & Technology student passionate about software engineering and game development.
+I'm an Information Systems & Technology student with a strong interest in **Embedded Systems**, **Computer Architecture**, **Digital Logic**, and **Low-Level Programming**.
 
-My main focus is building a strong foundation in game systems, backend architecture, and real-time application design. I’m currently learning Unity, Godot, and C# while also exploring backend technologies like Spring Boot and Express.js. I enjoy understanding how systems work under the hood whether it’s a game loop, a physics simulation, or a backend API.
+I enjoy learning how computers work from the hardware level, from logic gates and digital circuits to microcontrollers and processor design. Currently, I'm strengthening my programming skills in **C**, **C++**, and **C#** while building practical projects to deepen my understanding of computer engineering concepts.
 
-I’m a Software Engineering student focused on building **real-time systems, gameplay mechanics, and backend architecture**.
+Besides embedded systems, I also explore Artificial Intelligence and continuously improve my problem-solving skills through hands-on projects, certifications, and technology competitions.
 
--  Game Developer (Unity - Godot - C#)
--  Gameplay & real-time systems enthusiast  
--  3D Artist (Blender modeling & assets)
--  Backend & system architecture learner  
--  Linux user & open-source explorer  
+---
+
+## Current Learning
+
+* Digital Logic & Logic Gates
+* Computer Organization & Architecture
+* Embedded Systems
+* Microcontrollers
+* C Programming
+* C++
+* C#
+* Git & GitHub
+* Linux
 
 ---
 
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=unity,godot,cs,cpp,js,java,spring,express,nodejs,mysql,postgres,blender,git,linux,docker" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,git,github,linux,vscode" />
 </p>
 
 ---
 
 ## Focus Area
 
-- Gameplay systems & mechanics  
-- Physics-based movement  
-- AI behavior (basic NPC logic)  
-- Game architecture (component-based design)  
-- Prototype development in Unity & Godot  
+* Embedded Systems
+* Digital Logic Design
+* Computer Organization & Architecture
+* Low-Level Programming
+* Microcontrollers
+* Processor Fundamentals
+* System Programming
 
 ---
 
-## Projects
+## Current Projects
 
-- StayVerse — Full-stack booking system  
-- Unity / Godot Game Prototypes  
-- Blender Low-poly Assets Practice  
+* Logic Gate Simulation
+* Binary Calculator (C)
+* Digital Logic Practice
+* Embedded Systems Experiments
+* Computer Architecture Learning Projects
 
 ---
 
+## Certifications
+
+* Google Developer Groups — #JuaraVibeCoding 2026
+* *(More certifications coming soon...)*
+
+---
 
 ## Contact
-- Email: vascoarchive@gmail.com
+
+📧 Email: [vascoarchive@gmail.com](mailto:vascoarchive@gmail.com)
 
 ---
 
-> “I build systems that simulate worlds.”
+> *"Understanding computers starts from understanding how they work at the lowest level."*
