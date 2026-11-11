@@ -9,7 +9,7 @@ Beyond core software development, I am continuously expanding my knowledge in sy
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages & Frameworks:**
 `Typescript` `Node.js` `React` `Java` `Python` `SpringeBoot` `Tailwind CSS`
@@ -21,7 +21,7 @@ Beyond core software development, I am continuously expanding my knowledge in sy
 
 ## Contact
 
-📧 Email: [vascoarchive@gmail.com](mailto:vascoarchive@gmail.com)
-💼 LinkedIn: [Vasco Al Ghazi](https://www.linkedin.com/in/vasco-al-ghazi-8a5007412)
+Email: [vascoarchive@gmail.com](mailto:vascoarchive@gmail.com)
+LinkedIn: [Vasco Al Ghazi](https://www.linkedin.com/in/vasco-al-ghazi-8a5007412)
 
 
