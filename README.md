@@ -13,5 +13,6 @@ Beyond core software development, I am continuously expanding my knowledge in sy
 ## Contact
 
 📧 Email: [vascoarchive@gmail.com](mailto:vascoarchive@gmail.com)
+💼 LinkedIn: [Vasco Al Ghazi](https://www.linkedin.com/in/vasco-al-ghazi-8a5007412)
 
 
