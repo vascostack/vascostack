@@ -9,6 +9,15 @@ Beyond core software development, I am continuously expanding my knowledge in sy
 
 ---
 
+## 🛠️ Tech Stack
+
+**Languages & Frameworks:**
+`Typescript` `Node.js` `React` `Java` `Python` `SpringeBoot` `Tailwind CSS`
+
+**Tools & Infrastructure:**
+`Git` `GitHub` `VS Code` `Linux` `MySQL` `PostgreSQL`
+
+---
 
 ## Contact
 
